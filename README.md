@@ -9,7 +9,6 @@
 
 ### 💡 About Me
 - Full-stack developer in progress  
-- Learning Drawing and improving daily discipline
 - Focused on coding, consistency, and self-growth  
 
 ---
